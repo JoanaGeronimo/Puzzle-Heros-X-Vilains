@@ -52,11 +52,11 @@ Ao final, uma mensagem exibe a quantidade total de passos realizados pelo herói
 
 ### Tabuleiro e movimentação
 
-![Tabuleiro inicial](screenshots/jogo-inicial.png)
+![Tabuleiro inicial](jogo/screenshots/jogo-inicial.png)
 
 ### Finalização
 
-![Fim de jogo](screenshots/fim-de-jogo.png)
+![Fim de jogo](jogo/screenshots/fim-de-jogo.png)
 
 ## 🛠️ Tecnologias utilizadas
 
